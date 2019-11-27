@@ -668,8 +668,8 @@
 		}
 		/*==Interests==*/
 		.hr5{
-			position: relative;
-			top:1350px;}
+			position: absolute;
+			top:2030px;}
 		}
 		#interests{
 			
@@ -785,7 +785,7 @@
 		}
 		/*==Goal&Wish==*/
 		.hr6{
-			position:absolute;
+			position:relative;
 			top:2000px;
 			left:300px;
 		}
@@ -793,13 +793,13 @@
 			border-radius:10px;
 			background-image:url('../img/background3.jpg');
 			border-radius:10px;
-			position:relative;
+			position:absolute;
 			width:900px;
 			height:300px;
 			top:300px;
 		}
 		#Gdiv1{
-			position: relative;
+			position: absolute;
 			top:150px;
 			left:340px;
 			border-radius:10px;
@@ -843,6 +843,7 @@
 			left:660px;
 			border-radius:10px;
 			height:50px;
+			
 			border-width:3px;border-style:dashed;border-color:#BD8162;padding:10px;
 			font-size: 48px;
 			color:#4E342E;
